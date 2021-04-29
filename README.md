@@ -11,6 +11,8 @@ Build the Aescodedomdll.sln and generate Aescodedomdll.dll in the bin folder.
 
 Add the generated file as a reference, then build the Torque_App
 Torque_App is a simple application to multiply radius, force and angle theta.  
+The formula for calculating it is encrypted inside the dll and not available in the raw form.
+The user will have to use a key to compile the encrypted function. Hence preventing reverse engineering.
 
 ![Torque Window Application](https://raw.githubusercontent.com/JayantBenjamin/Encrypted_DLLs/master/Window_Application.PNG?raw=true)
 ## Contributing
