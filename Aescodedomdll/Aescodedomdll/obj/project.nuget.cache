@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UretWyz01/SdyP1XY4crpKhX3cRtLUqsRDdBRFuvb9uWREqlKXAPQFb4/URL+GK81K9GCUXXQlUjPUbbcVbo5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\benja121\\source\\repos\\Aescodedomdll\\Aescodedomdll\\Aescodedomdll.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\benja121\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\benja121\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\benja121\\.nuget\\packages\\system.codedom\\5.0.0\\system.codedom.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

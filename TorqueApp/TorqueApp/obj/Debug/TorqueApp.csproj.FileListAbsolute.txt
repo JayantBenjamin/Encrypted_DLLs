@@ -1,0 +1,17 @@
+C:\Users\benja121\source\repos\TorqueApp\TorqueApp\obj\Debug\TorqueApp.csprojAssemblyReference.cache
+C:\Users\benja121\source\repos\TorqueApp\TorqueApp\obj\Debug\TorqueApp.Form1.resources
+C:\Users\benja121\source\repos\TorqueApp\TorqueApp\obj\Debug\TorqueApp.Properties.Resources.resources
+C:\Users\benja121\source\repos\TorqueApp\TorqueApp\obj\Debug\TorqueApp.csproj.GenerateResource.cache
+C:\Users\benja121\source\repos\TorqueApp\TorqueApp\obj\Debug\TorqueApp.csproj.CoreCompileInputs.cache
+C:\Users\benja121\source\repos\TorqueApp\TorqueApp\bin\Debug\TorqueApp.exe.config
+C:\Users\benja121\source\repos\TorqueApp\TorqueApp\bin\Debug\TorqueApp.exe
+C:\Users\benja121\source\repos\TorqueApp\TorqueApp\bin\Debug\TorqueApp.pdb
+C:\Users\benja121\source\repos\TorqueApp\TorqueApp\bin\Debug\Test1.dll
+C:\Users\benja121\source\repos\TorqueApp\TorqueApp\bin\Debug\Test1.pdb
+C:\Users\benja121\source\repos\TorqueApp\TorqueApp\obj\Debug\TorqueApp.csproj.CopyComplete
+C:\Users\benja121\source\repos\TorqueApp\TorqueApp\obj\Debug\TorqueApp.exe
+C:\Users\benja121\source\repos\TorqueApp\TorqueApp\obj\Debug\TorqueApp.pdb
+C:\Users\benja121\source\repos\TorqueApp\TorqueApp\bin\Debug\System.CodeDom.dll
+C:\Users\benja121\source\repos\TorqueApp\TorqueApp\bin\Debug\System.CodeDom.xml
+C:\Users\benja121\source\repos\TorqueApp\TorqueApp\bin\Debug\Aescodedomdll.dll
+C:\Users\benja121\source\repos\TorqueApp\TorqueApp\bin\Debug\Aescodedomdll.pdb

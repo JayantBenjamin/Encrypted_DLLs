@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Test1
+{
+    public class Class1
+    {
+        public int torque(float r, float f, float t)
+        {
+            float radian = 0;
+            float sin = 0;
+            radian = t * (float)(Math.PI) / 180;
+            sin = (float)Math.Sin(radian);
+            return (int)(r * f *sin);
+        }
+            
+    }
+}

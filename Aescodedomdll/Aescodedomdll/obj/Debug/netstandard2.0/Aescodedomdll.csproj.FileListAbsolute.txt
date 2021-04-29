@@ -1,0 +1,8 @@
+C:\Users\benja121\source\repos\Aescodedomdll\Aescodedomdll\bin\Debug\netstandard2.0\Aescodedomdll.deps.json
+C:\Users\benja121\source\repos\Aescodedomdll\Aescodedomdll\bin\Debug\netstandard2.0\Aescodedomdll.dll
+C:\Users\benja121\source\repos\Aescodedomdll\Aescodedomdll\bin\Debug\netstandard2.0\Aescodedomdll.pdb
+C:\Users\benja121\source\repos\Aescodedomdll\Aescodedomdll\obj\Debug\netstandard2.0\Aescodedomdll.AssemblyInfoInputs.cache
+C:\Users\benja121\source\repos\Aescodedomdll\Aescodedomdll\obj\Debug\netstandard2.0\Aescodedomdll.AssemblyInfo.cs
+C:\Users\benja121\source\repos\Aescodedomdll\Aescodedomdll\obj\Debug\netstandard2.0\Aescodedomdll.csproj.CoreCompileInputs.cache
+C:\Users\benja121\source\repos\Aescodedomdll\Aescodedomdll\obj\Debug\netstandard2.0\Aescodedomdll.dll
+C:\Users\benja121\source\repos\Aescodedomdll\Aescodedomdll\obj\Debug\netstandard2.0\Aescodedomdll.pdb
